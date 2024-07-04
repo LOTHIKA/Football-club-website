@@ -1,0 +1,31 @@
+@charset "UTF-8";
+a:visited{
+	color:red;
+}
+a:hover{
+	color:maroon;
+}
+h1{
+	display:inline-block;
+}
+h2{
+	padding-top:40px;
+	font-size:2.5rem;
+	font-style:cursive;
+	display:inline-block;
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+tr.spacer td {
+    height: 20px; 
+}
+
+td {
+    padding: 10px; 
+    font-size:18px;
+}
+form input {
+    font-size: 20px;
+}
